@@ -160,7 +160,28 @@
                       Margin="95 50 0 0">
             </ComboBox>
 
-            <Button x:Name="ButtonCheck" Style="{DynamicResource ButtonCheckStyle}" Grid.Row="1" Content="Validate" FontWeight="Bold" Height="35" Width="598" HorizontalAlignment="Left" Margin="95 50 0 0"></Button>
+            <Label x:Name="LabelResult"
+                   Content="R"
+                   Grid.Row="1"
+                   Foreground="White"
+                   Height="35"
+                   Width="435"
+                   VerticalAlignment="Top"
+                   Margin="245 47 0 0"
+                   Visibility="Hidden">
+            </Label>
+
+            <Button x:Name="ButtonCheck"
+                    Style="{DynamicResource ButtonCheckStyle}"
+                    Grid.Row="1"
+                    Content="Validate"
+                    FontWeight="Bold"
+                    Height="35"
+                    Width="598"
+                    HorizontalAlignment="Left"
+                    Margin="95 50 0 0"
+                    Click="ButtonCheck_Click">
+            </Button>
         </Grid>
 
         
