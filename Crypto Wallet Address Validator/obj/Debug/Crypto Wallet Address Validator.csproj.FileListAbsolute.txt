@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\bin\Debug\Crypto Wallet Address Validator.exe.config
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\bin\Debug\Crypto Wallet Address Validator.exe
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\bin\Debug\Crypto Wallet Address Validator.pdb
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\MainWindow.g.cs
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\App.g.cs
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator_MarkupCompile.cache
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator_MarkupCompile.lref
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\MainWindow.baml
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.g.resources
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto_Wallet_Address_Validator.Properties.Resources.resources
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.exe
+C:\Users\moham\source\repos\Crypto Wallet Address Validator\Crypto Wallet Address Validator\obj\Debug\Crypto Wallet Address Validator.pdb

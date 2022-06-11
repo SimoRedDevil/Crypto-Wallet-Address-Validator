@@ -28,12 +28,16 @@ namespace Crypto_Wallet_Address_Validator
         private void TextAddress_TextChanged(object sender, TextChangedEventArgs e)
         {
             TextAddress.Text = ((TextBox)TextAddress.Template.FindName("TextChild", TextAddress)).Text;
-            
         }
 
         private void ButtonExit_Click(object sender, RoutedEventArgs e)
         {
             Environment.Exit(0);
+        }
+
+        private void ButtonCheck_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
