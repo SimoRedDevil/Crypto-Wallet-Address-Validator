@@ -38,4 +38,4 @@ The application allows a user to validate Bitcoin and other altcoins addresses t
 - API Name: Crypto Wallet Address Validator
 - API Creator: Florin Tiron
 
-Made With Love ❤️
+**Made With Love** ❤️
